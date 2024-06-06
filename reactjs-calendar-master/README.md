@@ -25,7 +25,3 @@ npm start
 ```
 
 This will clone the repo, install necessary dependencies, and start the development server at http://localhost:3000.
-
-![image](https://github.com/lehungtin11/reactjs-calendar/assets/104882851/b8198098-0c75-4916-b65b-d7e020814958)
-
-![image](https://github.com/lehungtin11/reactjs-calendar/assets/104882851/3c12bba6-8a1d-4366-b3b2-cef11a678d7d)
