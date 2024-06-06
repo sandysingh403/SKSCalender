@@ -1,6 +1,4 @@
-# [ReactJS - Calendar]: ReactJS with react-big-calendar Integration
-
-## Publish: https://event-planner-app.onrender.com
+# [ReactJS - Calendar]: ReactJS with react-big-calendar Integrate
 
 ## Introduction
 
